@@ -1,0 +1,9 @@
+Data_Venda,Produto,Categoria,Preco_Unitario,Quantidade,Vendedor,Regiao
+2024-01-05,Teclado,Periféricos,150,5,Ana,SP
+05/02/2024,Mouse,Periféricos,80,10,Bruno,RJ
+2024/03/10,Monitor,Tela,900,3,Carlos,SP
+,mouse,Periféricos,85,7,Bruno,RJ
+2024-04-15,Teclado ,Periféricos,150,,Ana,SP
+15-05-2024,Monitor,Tela,,2,Carlos,SP
+2024-06-20,,Tela,950,1,Ana,MG
+2024-06-20,Monitor,Tela,900,1,Ana,MG
