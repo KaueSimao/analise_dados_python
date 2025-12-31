@@ -1,0 +1,9 @@
+﻿Data_Venda,Produto,Categoria,Preco_Unitario,Quantidade,Vendedor,Regiao,Faturamento
+2024-02-05,Teclado,Periféricos,150.0,5.0,Ana,SP,750.0
+2024-02-06,Mouse,Periféricos,80.0,10.0,Bruno,RJ,800.0
+2024-02-07,Monitor,Tela,900.0,3.0,Carlos,SP,2700.0
+2024-02-08,Mouse,Periféricos,85.0,7.0,Bruno,RJ,595.0
+2024-02-09,Teclado ,Periféricos,150.0,2.0,Ana,SP,300.0
+2024-02-10,Monitor,Tela,900.0,2.0,Carlos,SP,1800.0
+2024-02-11,Cadeira Gamer,Periféricos,950.0,1.0,Ana,MG,950.0
+2024-02-12,Monitor,Tela,900.0,1.0,Ana,MG,900.0
